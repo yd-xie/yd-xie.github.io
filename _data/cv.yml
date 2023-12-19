@@ -45,10 +45,20 @@
     - year: 2022
       items: 
         - IEEE INFOCOM-2022 Student Grant Award 
-        - Matteucci Medal
-    - year: 2029
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - National Scholarship
+        - IEEE INFOCOM-2021 Student Grant Award
+    - year: 2020
+      items: 
+        - BIT Special Scholarship
+    - year: 2019
+      items: 
+        - BIT First Class Scholarship
+    - year: 2018
+      items: 
+        - BIT First Class Scholarship
+
 
 - title: Academic Interests
   type: nested_list
