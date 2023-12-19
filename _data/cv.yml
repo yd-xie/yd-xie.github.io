@@ -4,29 +4,24 @@
     - name: Full Name
       value: Yadong Xie
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th March 1994
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Degree
+      institution: Beijing Institute of Technology
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - School of Computer Science and Technology
+
+    - title: B.E. Degree
+      institution: Hebei University
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - School of Cyber Security and Computer
 
 - title: Experience
   type: time_table
