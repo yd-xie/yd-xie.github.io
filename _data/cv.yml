@@ -8,6 +8,15 @@
     - name: Languages
       value: Chinese, English
 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: postdoctoral Researcher
+      institution: Tsinghua University 
+      year: 2023 - now
+      description:
+        - School of Software
+        
 - title: Education
   type: time_table
   contents:
@@ -22,15 +31,6 @@
       year: 2016
       description:
         - School of Cyber Security and Computer
-
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: postdoctoral Researcher
-      institution: Tsinghua University 
-      year: 2023 - now
-      description:
-        - School of Software
 
 - title: Honors and Awards
   type: time_table
@@ -60,7 +60,7 @@
       items: 
         - Wi-Fi sensing
         - mmWave Sensing
-    - title: Mobile Health.
+    - title: Mobile Health
       items:
         - Wellbeing Monitoring
         - Device-free Activity Recognition
