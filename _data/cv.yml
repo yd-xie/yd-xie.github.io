@@ -63,16 +63,20 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Wireless Sensing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Wi-Fi sensing
+        - mmWave Sensing
+    - title: Mobile Health.
       items:
-        - Description 1.
-        - Description 2.
-
+        - Wellbeing Monitoring
+        - Device-free Activity Recognition
+        - Physiological Signal Monitoring
+    - title: Privacy Protection
+      items: 
+        - User Authentication
+        
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> skiing, badminton, basketball, etc.
