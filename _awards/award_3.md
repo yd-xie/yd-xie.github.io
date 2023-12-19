@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-BIT Special Scholarship | 北京理工大学特等奖学金
+BIT Special Scholarship

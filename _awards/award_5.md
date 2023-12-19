@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-National Scholarship | 国家奖学金
+National Scholarship
