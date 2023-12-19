@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-11-02 16:11:00-0400
-inline: True
+date: 2019-11-10 15:59:00-0400
+inline: true
 related_posts: false
 ---
 
-BIT Special Scholarship
+The First Class Scholarship, Beijing Institute of Technology
