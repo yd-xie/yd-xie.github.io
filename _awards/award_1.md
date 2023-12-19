@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BIT First Class Scholarship
+BIT First Class Scholarship | 北京理工大学一等奖学金
