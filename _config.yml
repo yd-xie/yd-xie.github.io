@@ -168,6 +168,11 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  awards:
+    defaults:
+      layout: post
+    output: true
+    permalink: /awards/:path/
 
 announcements:
   enabled: true
