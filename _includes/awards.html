@@ -2,7 +2,7 @@
             {% if site.awards != blank -%}
             {%- assign awards_size = site.awards | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and awards_size > 3 %}style="max-height: 60vw"{% endif %}>
-              <table class="table table-sm table-borderless table-hover">
+              <table class="table table-sm table-borderless">
               {%- assign awards = site.awards | reverse -%}
               {% if include.limit and site.announcements.limit %}
               {% assign awards_limit = site.announcements.limit %}
