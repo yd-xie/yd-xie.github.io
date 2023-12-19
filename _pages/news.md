@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /news/
-title: news
-description: news by categories in reversed chronological order.
+title: News
+description: News by categories in reversed chronological order.
 nav: true
 nav_order: 1
 ---
