@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>postdoctoral Researcher</p>
-    <p>School of Software</p>
-    <p>Tsinghua University</p>
-    <p> </p>
-    <p>Email: yad.xie@gmail.com</p>
+    <p><strong>postdoctoral Researcher</strong></p>
+    <p><strong>School of Software</strong></p>
+    <p><strong>Tsinghua University</strong></p>
+
+    <p><strong>Email: yad.xie@gmail.com</strong></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
