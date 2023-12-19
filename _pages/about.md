@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>postdoctoral Researcher</p>
+    <p>Postdoctoral Researcher</p>
     <p>School of Software</p>
     <p>Tsinghua University</p>
     <p>Email: yad.xie@gmail.com</p>
