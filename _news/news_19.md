@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work MASS is accepted by WASA!
+Our work MASS is accepted by WASA 2025!
