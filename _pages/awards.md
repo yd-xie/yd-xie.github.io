@@ -21,7 +21,7 @@ nav_order: 3
     {% endif %}
     {% for item in awards limit: awards_limit %}
     <tr>
-        <th scope="row" style="width: 20%">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <th scope="row" style="width: 20%">{{ item.date | date: "%b %Y" }}</th>
         <td>
         {% if item.inline -%}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
