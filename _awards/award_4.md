@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 The Special Scholarship, Beijing Institute of Technology
-北京理工大学 特等学业奖学金

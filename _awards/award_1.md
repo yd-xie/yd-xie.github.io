@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 The First Prize, National College Competition on Internet of Things
-全国高校物联网应用创新大赛 挑战赛 全国一等奖

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 The First Class Scholarship, Beijing Institute of Technology
-北京理工大学 一等学业奖学金
