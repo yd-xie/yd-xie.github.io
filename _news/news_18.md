@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work mmHRR and mmjaw is accepted by IEEE ICPADS 2024!
+Our work mmHRR and mmjaw are accepted by IEEE ICPADS 2024!

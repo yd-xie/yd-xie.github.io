@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work WakeUp and FlyTracker is accepted by IEEE INFOCOM 2023!
+Our work WakeUp and FlyTracker are accepted by IEEE INFOCOM 2023!
