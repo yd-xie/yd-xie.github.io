@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-National Scholarship, Ministry of Education
+National Scholarship, Ministry of Education \\
+教育部, 国家奖学金（排名第一）
