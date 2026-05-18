@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoctoral Researcher</p>
-    <p>School of Software</p>
-    <p>Tsinghua University</p>
-    <p>Email: yad.xie@gmail.com</p>
+    <p>Associate Professor</p>
+    <p>School of Computer and Communication Engineering</p>
+    <p>University of Science and Technology Beijing</p>
+    <p>Email: yadong@ustb.edu.cn; yad.xie@gmail.com</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,7 +21,7 @@ awards: true  # includes a list of awards items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<big> I am currently a postdoctoral researcher in the [Systems and Ubiquitous Networking (SUN) group](http://tns.thss.tsinghua.edu.cn/sun/index.html) in Tsinghua University, advised by [Dr. Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/). I received my Ph.D. degree in the School of Computer Science, Beijing Institute of Technology in 2022, under supervision of [Prof. Fan Li](https://fli-bit.github.io/#Home). </big>
+<big> I am currently an Associate Professor with the School of Computer and Communication Engineering, University of Science and Technology Beijing. I was previously a postdoctoral researcher in the [Systems and Ubiquitous Networking (SUN) group](http://tns.thss.tsinghua.edu.cn/sun/index.html) in Tsinghua University, advised by [Dr. Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/). I received my Ph.D. degree in the School of Computer Science, Beijing Institute of Technology in 2022, under supervision of [Prof. Fan Li](https://fli-bit.github.io/#Home). </big>
 
 <font size="+3"> Research Interests </font>
 <big> My research interests include Acoustic Sensing, Wireless Sensing, Privacy-Preserving Authentication, and Emerging Sensing Technologies. </big> 
