@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yadong Xie
+      value: Yadong Xie 解亚东
     - name: Date of Birth
       value: 7th March 1994
     - name: Languages
@@ -11,9 +11,15 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: associate professor
+      institution: University of Science and Technology Beijing 
+      year: 2026 - now
+      description:
+      - School of Computer and Communication Engineering
+
     - title: postdoctoral Researcher
       institution: Tsinghua University 
-      year: 2023 - now
+      year: 2023 - 2025
       description:
         - School of Software
 
@@ -35,6 +41,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+    - 国家资助博士后研究人员计划B档资助
+
+    - year: 2024
+      items: 
+      - 北京市科协青年人才托举工程
+
     - year: 2022
       items: 
         - IEEE INFOCOM-2022 Student Grant Award 
@@ -59,16 +73,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Wireless Sensing
+    - title: Acoustic Sensing
       items: 
-        - Wi-Fi sensing
-        - mmWave Sensing
-    - title: Mobile Health
-      items:
-        - Wellbeing Monitoring
         - Device-free Activity Recognition
         - Physiological Signal Monitoring
-    - title: Privacy Protection
+        - Acoustic Backscatter Systems
+    - title: Wireless Sensing
+      items:
+        - Wi-Fi and mmWave based sensing
+    - title: Privacy-Preserving Authentication
       items: 
         - User Authentication
         
